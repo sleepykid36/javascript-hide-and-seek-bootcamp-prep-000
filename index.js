@@ -3,5 +3,5 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  return document.qucerySelector()
+  return document.qucerySelector('nested.target')
 }
