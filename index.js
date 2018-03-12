@@ -1,3 +1,4 @@
 function getFirstSelector(selector) {
-  const document.querySelectr
+  const first =  document.querySelector(`${selector}`);
+  return first
 }
