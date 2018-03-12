@@ -1,7 +1,7 @@
 function getFirstSelector(selector) {
-  return document.qucerySelector(`${selector}`);
+  return document.querySelector(`${selector}`);
 }
 
 function nestedTarget() {
-  return document.qucerySelector('#nested.target')
+  return document.querySelector('#nested.target')
 }
